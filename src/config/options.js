@@ -3,7 +3,7 @@ const options = {
         productsFileName: "products.json"
     },
     mongoDB:{
-        url: "mongodb+srv://Nebbia:Ny09yW6FPUctLMs5@ecommerce.thencen.mongodb.net/ecommerce?retryWrites=true&w=majority"
+        url: "mongodb+srv://alesso-chiavarino:TheAlexOMG14@cluster0.vy0dlcj.mongodb.net/?retryWrites=true&w=majority"
     }
 }
 
